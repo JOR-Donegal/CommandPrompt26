@@ -1,5 +1,4 @@
-# MKTemplate
-Template for new teaching notes
+# Command Prompt
 
-1. Edit mkdocs to name the project and add a URL
-2. 
+10SEP26
+Rewritten from old course notes.
